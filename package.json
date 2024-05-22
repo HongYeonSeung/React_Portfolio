@@ -2,20 +2,42 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://HongYeonSeung.github.io/React_Portfolio",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@tsparticles/all": "^3.3.0",
+    "@tsparticles/engine": "^3.3.0",
+    "@tsparticles/react": "^3.0.0",
+    "canvas-confetti": "^1.9.3",
+    "framer-motion": "^11.0.25",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
+    "react-animated-cursor": "^2.11.2",
     "react-dom": "^18.2.0",
+    "react-fullpage": "^0.1.19",
+    "react-icons": "^5.0.1",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.0",
+    "swiper": "^11.1.1",
+    "tsparticles": "^3.3.0",
+    "typewriter-effect": "^2.21.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

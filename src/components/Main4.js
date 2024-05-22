@@ -13,36 +13,36 @@ function Main4() {
   const projects = [
     {
       title: "StarBucks",
-      image: "../assets/statbucks1.png",
-      image2: "../assets/statbucks2.png",
-      image3: "../assets/statbucks4.png",
+      image: "assets/statbucks1.png",
+      image2: "assets/statbucks2.png",
+      image3: "assets/statbucks4.png",
       info: "FastCampus에서 '프론트엔드 개발 완전정복 패키지' Part.1 온라인 강의 수강한 후 클론 코딩을 통해  HTML, CSS 및 JavaScript 기초를 다룬 첫 웹사이트를 제작했습니다.",
       git: "https://github.com/HongYeonSeung/starbucks?tab=readme-ov-file",
       link: "https://shiny-bunny-eccbea.netlify.app/",
     },
     {
       title: "React_Todolist",
-      image: "../assets/todolist.png",
+      image: "assets/todolist.png",
       info: "리액트를 처음 공부하기위해 만든 투두리스트, 리액트의 기본 문법인 JSX를 숙지하고 state 객체,템플릿 리터럴,화살표 함수등을 사용해보았으며 이를 통한 기초를 쌓아올렸습니다. ",
       git: "https://github.com/HongYeonSeung/react_todolist",
       link: "https://hongyeonseung.github.io/react_todolist/",
     },
     {
       title: "CrimsonDesert",
-      image: "../assets/CrimsonDesert.jpg",
-      image2: "../assets/CrimsonDesert2.png",
-      image3: "../assets/CrimsonDesert3.png",
-      image4: "../assets/CrimsonDesert4.png",
+      image: "assets/CrimsonDesert.jpg",
+      image2: "assets/CrimsonDesert2.png",
+      image3: "assets/CrimsonDesert3.png",
+      image4: "assets/CrimsonDesert4.png",
       info: "출시예정 게임인 붉은사막의 티저를 보고 게임 웹사이트를 제작해보자라는 동기로 제작하였습니다, React를 사용하여 동영상 통합, 웹 스크롤 감지 및 React Swiper와 같은 다양한 라이브러리를 활용했습니다.",
       git: "https://github.com/HongYeonSeung/React_CrimsonDesert",
       link: "https://hongyeonseung.github.io/React_CrimsonDesert",
     },
     {
       title: "YSCoding",
-      image: "../assets/yscoding.png",
-      image2: "../assets/yscoding2.png",
-      image3: "../assets/yscoding3.png",
-      image4: "../assets/yscoding4.png",
+      image: "assets/yscoding.png",
+      image2: "assets/yscoding2.png",
+      image3: "assets/yscoding3.png",
+      image4: "assets/yscoding4.png",
       info: "대학교 캡스톤 디자인 과제로 제출한 첫 팀 프로젝트 결과물. React와 SpringBoot를 사용하여 경매 시스템을 개발했습니다. 프론트엔드 백엔드 API 통신, JWT를 사용한 사용자 인증 및 비동기 데이터 처리에 대해 배웠으며, 프론트엔드, 백엔드 및 데이터베이스 상호작용의 기본 작동 방식에 대한 이해를 기를 수 있었습니다",
       git: "https://github.com/HongYeonSeung/YSCoding",
     },
@@ -171,7 +171,7 @@ function Main4() {
                           <a href={projectsList.git}>
                             <img
                               className="project_git_svg"
-                              src="../assets/git.svg"
+                              src="assets/git.svg"
                               alt="깃허브링크"
                               style={{ height: "2.5rem", width: "2.5rem" }}
                             />
@@ -184,7 +184,7 @@ function Main4() {
                           <a href={projectsList.link}>
                             <img
                               className="project_link_svg"
-                              src="../assets/link.svg"
+                              src="assets/link.svg"
                               alt="바로가기"
                               style={{ height: "2.5rem", width: "2.5rem" }}
                             />

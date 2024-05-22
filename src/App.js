@@ -119,7 +119,7 @@ function App() {
               <a href="https://github.com/HongYeonSeung">
                 <img
                   className="git_svg"
-                  src="../assets/git.svg"
+                  src="assets/git.svg"
                   alt="깃허브링크"
                   style={{ height: "2.5rem" }}
                 />

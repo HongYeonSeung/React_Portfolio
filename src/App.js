@@ -32,7 +32,7 @@ function App() {
   }, []);
 
   let options = {
-    anchors: [1, 2, 3, 4, 5],
+    anchors: ["1", "2", "3", "4", "5"],
     delay: 900, // the scroll animation speed
     navigation: false, // use dots navigatio
     scrollBar: false, // use the browser default scrollbar
@@ -55,7 +55,6 @@ function App() {
       colors: ["#bb0000", "#ffffff"],
     });
 
-
     setTimeout(() => {
       confetti({
         particleCount: 100,
@@ -74,7 +73,6 @@ function App() {
         colors: ["#bb0000", "#ffffff"],
       });
     }, 1000);
-
 
     setTimeout(() => {
       confetti({
@@ -100,22 +98,22 @@ function App() {
       <div className="container">
         <div className="page1_top">
           <ul>
-            <ol>
+            <li>
               <a href="#1">home</a>
-            </ol>
-            <ol>
+            </li>
+            <li>
               <a href="#2">About Me</a>
-            </ol>
-            <ol>
+            </li>
+            <li>
               <a href="#3">Skill</a>
-            </ol>
-            <ol>
+            </li>
+            <li>
               <a href="#4">Project</a>
-            </ol>
-            <ol>
+            </li>
+            <li>
               <a href="#5">Finish</a>
-            </ol>
-            <ol>
+            </li>
+            <li>
               <a href="https://github.com/HongYeonSeung">
                 <img
                   className="git_svg"
@@ -124,7 +122,7 @@ function App() {
                   style={{ height: "2.5rem" }}
                 />
               </a>
-            </ol>
+            </li>
           </ul>
         </div>
         <AnimatedCursor

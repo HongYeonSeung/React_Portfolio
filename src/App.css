@@ -41,8 +41,6 @@
 
 }
 
-
-
 .page1_top {
   position: absolute;
   width: 35%;
@@ -52,31 +50,43 @@
   top: 0;
   right: 0;
   z-index: 10;
-}
-
-.page1_top ul ol {
   margin: auto;
-}
-
-.page1_top ul ol a {
-  color: #fff;
-}
-
-.page1_top ul ol a:hover {
-  color: #e4981f;
-}
-
-.git_svg:hover {
-  scale: 1.4;
-  transition: 0.2s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .page1_top ul {
   display: flex;
   justify-content: center;
   align-items: center;
-
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  height: 100%;
 }
+
+.page1_top ul li {
+  margin: 0 20px;
+  /* 리스트 아이템 간격 조절 */
+}
+
+.page1_top ul li a {
+  color: #fff;
+  text-decoration: none;
+  /* 링크 밑줄 제거 */
+}
+
+.page1_top ul li a:hover {
+  color: #e4981f;
+}
+
+.git_svg:hover {
+  transform: scale(1.4);
+  /* scale을 transform으로 변경 */
+  transition: 0.2s ease-in-out;
+}
+
 
 
 .page1_box_textbox {
@@ -813,6 +823,7 @@
   50% {
     stroke-dashoffset: 0;
   }
+
   95% {
     fill: #00000000;
     stroke-dashoffset: 0;
@@ -830,13 +841,16 @@
   44% {
     stroke-dashoffset: 200000;
   }
+
   70% {
     stroke-dashoffset: 100000;
   }
+
   95% {
     fill: #00000000;
     stroke-dashoffset: 0;
   }
+
   100% {
     fill: #000000;
     stroke-dashoffset: 200000;

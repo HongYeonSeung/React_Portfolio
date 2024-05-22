@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.119b10f7.css",
-    "main.js": "/React_Portfolio/static/js/main.17fe5e32.js",
+    "main.js": "/React_Portfolio/static/js/main.9ca91089.js",
     "static/js/453.1407b060.chunk.js": "/React_Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/magical-spring-forest-scenery-during-morning-breeze-picjumbo-com.jpg": "/React_Portfolio/static/media/magical-spring-forest-scenery-during-morning-breeze-picjumbo-com.2ce995dbefb5d6d6ab1d.jpg",
     "static/media/DNFForgedBlade-Bold.ttf": "/React_Portfolio/static/media/DNFForgedBlade-Bold.a47cf93566c4c522bec9.ttf",
@@ -30,11 +30,11 @@
     "static/media/fa-v4compatibility.woff2": "/React_Portfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/React_Portfolio/index.html",
     "main.119b10f7.css.map": "/React_Portfolio/static/css/main.119b10f7.css.map",
-    "main.17fe5e32.js.map": "/React_Portfolio/static/js/main.17fe5e32.js.map",
+    "main.9ca91089.js.map": "/React_Portfolio/static/js/main.9ca91089.js.map",
     "453.1407b060.chunk.js.map": "/React_Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.119b10f7.css",
-    "static/js/main.17fe5e32.js"
+    "static/js/main.9ca91089.js"
   ]
 }

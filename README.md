@@ -28,7 +28,7 @@
 2. 프로젝트 디렉토리로 이동합니다.
 
     ```bash
-    cd project-name
+    cd portfolio
     ```
 
 3. 의존성을 설치합니다.

@@ -460,16 +460,19 @@
   margin: auto;
   position: absolute;
   z-index: 0;
+  background-color: #0000006b ;
+  border-radius: 50px;
 }
 
 
 .page3_box2 {
-  width: 70vw;
+  width: 60vw;
   height: 55vh;
   margin: auto;
   display: flex;
   justify-content: space-between;
   z-index: 0;
+
 }
 
 .page3_box_semi {
@@ -554,20 +557,22 @@
 
 .page3_skill_info {
   position: absolute;
-  background-color: rgba(0, 0, 0, 0.644);
+  background-color: #000000a4;
   border-radius: 40px;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 20px;
   z-index: 10;
-  width: 70vw;
+  width: 50vw;
   height: 15vh;
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: maple;
-  padding: 8%;
+  padding: 5%;
   box-sizing: border-box;
-  bottom: 0px;
+  bottom: 20px;
+  left: 15%;
+  transform: translateX(-15%);
 }
 
 

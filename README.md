@@ -1,62 +1,77 @@
-# React_Portfolio
+React 포트폴리오
+설명
+이 프로젝트는 React를 사용하여 제작한 개인 포트폴리오 웹사이트입니다. 다양한 라이브러리와 애니메이션 효과를 활용하여 나만의 스타일을 표현하고 있습니다. 주요 기능으로는 전체 화면 스크롤 단위 페이지 구분, 타이핑 효과, 커서 애니메이션 등이 있습니다.
 
-## 배포
-https://hongyeonseung.github.io/React_Portfolio/
+개발 기간
+2024년 3월 말 ~ 2024년 5월 초 (약 1달 반)
 
-## 개발 기간
-2024년 3월말~ 2024년 5월초 (약 1달반)
+사용한 라이브러리
+react-fullpage: 전체 화면 스크롤 단위로 페이지 구분
+typewriter-effect: 타이핑 효과 라이브러리
+react-animated-cursor: 커서 애니메이션 라이브러리
+framer-motion: 리액트 애니메이션 라이브러리
+주요 페이지
+1페이지: 메인 포트폴리오
 
-## 사용한 라이브러리
--  **react-fullpage** : 전체화면 스크롤단위로
+내용: 'React', 'Front-end', 'Developer' 텍스트와 증명사진 추가
+기능: 타이핑 효과와 배경 애니메이션
+2페이지: About
 
--  **typewriter-effect** :	타이핑 라이브러리
+내용: 개인 정보와 자기소개
+기능: 카드 형식의 사진이 떨어지는 애니메이션, CSS 오버레이와 hover 효과
+개인 정보:
+생일: 1997년 12월 2일
+전화: +82 010-3543-2529
+이메일: yshong2332@gmail.com
+대학: 연성대학교 컴퓨터소프트웨어과
+3페이지: Skills
 
--  **react-animated-cursor** : 커서 라이브러리 
+내용: 사용해본 언어와 기술 목록
+기능: framer-motion을 활용한 애니메이션
+기술 목록: C, Python, Java, HTML, CSS, JS, React, JSP, GitHub, Spring Boot, MySQL, MongoDB, Android, Axios, ngrok 등
+4페이지: 프로젝트
 
--  **framer-motion** : 리액트 애니메이션들
+내용: 진행했던 프로젝트들
+기능: Swiper를 이용한 슬라이드 쇼
+5페이지: SVG 애니메이션
 
-## 개발 노트
-1페이지
-메인포트폴리오 글씨와 배경 
-React / Front-end / Developer
-증명사진 추가
+내용: SVG 벡터 이미지를 활용한 전체 페이지 애니메이션 처리
+개발 환경
+IDE: Visual Studio Code
+Framework: React 9.8.0
+배운 점
+처음에는 바닐라 JavaScript로 기능을 구현하려고 했으나, npm 라이브러리를 사용하면서 많은 도움을 받았음. 그러나 너무 많은 라이브러리를 사용하여 서로 간섭이 발생해 일부는 제대로 동작하지 않음.
+디자인 초안을 만들지 않고 UI를 직접 코딩하였기 때문에 번잡해 보임. 향후에는 디자인 초안을 대략적으로라도 먼저 작성한 후 코딩할 필요가 있음.
+시작하기
+이 섹션에서는 로컬 환경에서 프로젝트를 실행하기 위한 설치 및 설정 방법을 설명합니다.
 
-2페이지
-About
-사진이 떨어지는 느낌으로 (카드형식) 오버레이 CSS hover로 반응하게끔
+필수 조건
+Node.js: 14.x 이상
+npm: Node.js와 함께 설치됨
+설치 방법
+프로젝트를 클론하거나 다운로드합니다.
 
-간략한 자기소개
-들어갈 내용
-19971202 Birthday
-phone +82 010-3543-2529
-대학 연성대/컴소과
-이메일 등등
+bash
+코드 복사
+git clone https://github.com/username/project-name.git
+프로젝트 디렉토리로 이동합니다.
 
+bash
+코드 복사
+cd project-name
+의존성을 설치합니다.
 
-3페이지
-SKILL 여기에는 framer-motion 사용해서 사용해본 언어들 목록
-c,파이썬,자바,HTML,CSS,JS,React,jsp,GITHub,스프링부트,MYSQL,mongoDB,안드로이드,axios,ngrok 등등 
+bash
+코드 복사
+npm install
+실행 방법
+프로젝트를 로컬 환경에서 실행하려면 다음 명령어를 사용합니다.
 
-https://www.vectorlogo.zone/?q=
+bash
+코드 복사
+npm start
+또는
 
-MAP 배열들 차례대로 뜨는거 https://velog.io/@iepppop/react-framer-motion-%ED%95%98%EB%82%98%EC%94%A9-%EB%9C%A8%EB%8A%94-map
-
-마우스 따라 따라보는 눈모양 : https://ctrlcccv.github.io/code/2023-11-29-cursor-eye/ // 폐기
-
-4페이지 
-만들었던 프로젝트들
-스와이퍼 이용해서 작성
-
-5페이지
-메일,깃허브링크 같은 링크 혹은 svg 백터이미지 사용해서 전체 애니메이션도 괜찮을듯함
-
-## 개발 환경
-- **IDE** : Visual Studio Code
-- **Framework** : React 9.8.0
-
-## 회고록
-처음에는 순수하게 바닐라 js로 기능을 구현하려고 하였으나 삽질 이후 npm 라이브러리를 접한 후 이 좋은게 있었는데 왜 안썻을까? 하는 생각에 사로잡혀 너무 과도하게 사용한거같다.
-
-NPM 라이브러리를 사용한거까지는 좋은데 너무 떡칠을해놔서 서로 간섭이 되어서 동작하지 않는 경우도 발생하여서 사용하지 못한 라이브러리도 1~2개 정도 있음
-
-디자인 초안을 만들지 않고 디자인 UI를 코딩하면서 만들었기 때문에 번잡해보임 가능하면 초안을 대략적이라도 만든후 코딩하는걸로
+bash
+코드 복사
+npm run dev

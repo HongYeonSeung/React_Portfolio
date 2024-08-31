@@ -18,7 +18,7 @@ function App() {
       const pageNumber = hash ? hash.substring(1) : "1";
       // console.log("Current page number:", pageNumber);
       setPageNumber(pageNumber);
-      if (pageNumber == 5) {
+      if (pageNumber === 5) {
         setTimeout(() => Boom(), 1000);
       }
     };

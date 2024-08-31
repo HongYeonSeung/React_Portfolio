@@ -17,7 +17,7 @@ function Main3() {
     },
     {
       skill: "Python",
-      image: "assets/Python-icon.svg",
+      image: "assets/python-icon.svg",
       info: "기본 문법 및 데이터 구조를 이해하고, 머신러닝 알고리즘을 사용한 선형회귀 알고리즘 등을 사용해 보았습니다 ",
       rank: "",
     },

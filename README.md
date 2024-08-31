@@ -6,7 +6,7 @@
 
 ## 링크
 
-###[Portfolio](https://hongyeonseung.github.io/React_Portfolio/)
+### [Portfolio](https://hongyeonseung.github.io/React_Portfolio/)
 
 ## 개발 기간
 

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.3fa0284b.css",
+    "main.css": "/React_Portfolio/static/css/main.89db0044.css",
     "main.js": "/React_Portfolio/static/js/main.187bf2fb.js",
     "static/js/453.1407b060.chunk.js": "/React_Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/magical-spring-forest-scenery-during-morning-breeze-picjumbo-com.jpg": "/React_Portfolio/static/media/magical-spring-forest-scenery-during-morning-breeze-picjumbo-com.2ce995dbefb5d6d6ab1d.jpg",
@@ -29,12 +29,12 @@
     "static/media/fa-v4compatibility.ttf": "/React_Portfolio/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/React_Portfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/React_Portfolio/index.html",
-    "main.3fa0284b.css.map": "/React_Portfolio/static/css/main.3fa0284b.css.map",
+    "main.89db0044.css.map": "/React_Portfolio/static/css/main.89db0044.css.map",
     "main.187bf2fb.js.map": "/React_Portfolio/static/js/main.187bf2fb.js.map",
     "453.1407b060.chunk.js.map": "/React_Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fa0284b.css",
+    "static/css/main.89db0044.css",
     "static/js/main.187bf2fb.js"
   ]
 }

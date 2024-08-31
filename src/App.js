@@ -14,11 +14,11 @@ function App() {
   useEffect(() => {
     const updatePageNumber = () => {
       const hash = window.location.hash;
-      // console.log("Current hash:", hash);
-      const pageNumber = hash ? hash.substring(1) : "1";
-      // console.log("Current page number:", pageNumber);
-      setPageNumber(pageNumber);
-      if (pageNumber === 5) {
+      const number = hash ? hash.substring(1) : "1";
+      console.log( number);
+      setPageNumber(number);
+      if (number === '5') {
+        console.log("Current page number:", number);
         setTimeout(() => Boom(), 1000);
       }
     };

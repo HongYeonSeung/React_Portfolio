@@ -22,7 +22,7 @@
 1. 프로젝트를 클론하거나 다운로드합니다.
 
     ```bash
-    git clone [https://github.com/username/project-name.git](https://github.com/HongYeonSeung/React_Portfolio.git)
+    git clone https://github.com/HongYeonSeung/React_Portfolio.git
     ```
 
 2. 프로젝트 디렉토리로 이동합니다.

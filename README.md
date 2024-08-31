@@ -6,7 +6,7 @@
 
 ## 링크
 
-### [Portfolio](https://hongyeonseung.github.io/React_Portfolio/)
+### https://hongyeonseung.github.io/React_Portfolio/
 
 ## 시작하기
 

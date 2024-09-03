@@ -460,7 +460,7 @@
   margin: auto;
   position: absolute;
   z-index: 0;
-  background-color: #0000006b ;
+  background-color: #0000006b;
   border-radius: 50px;
 }
 
@@ -709,7 +709,7 @@
   width: 80%;
   height: 15vh;
   background-color: #417243;
-  margin: 2% auto;
+  margin: auto ;
   display: flex;
   justify-content: space-around;
 

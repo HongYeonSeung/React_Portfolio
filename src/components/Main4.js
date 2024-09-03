@@ -21,11 +21,11 @@ function Main4() {
       link: "https://shiny-bunny-eccbea.netlify.app/",
     },
     {
-      title: "React_Todolist",
-      image: "assets/todolist.png",
-      info: "리액트를 처음 공부하기위해 만든 투두리스트, 리액트의 기본 문법인 JSX를 숙지하고 state 객체,템플릿 리터럴,화살표 함수등을 사용해보았으며 이를 통한 기초를 쌓아올렸습니다. ",
-      git: "https://github.com/HongYeonSeung/react_todolist",
-      link: "https://hongyeonseung.github.io/react_todolist/",
+      title: "maple_newname_2024",
+      image: "assets/newname.png",
+      info: `메이플스토리의 닉네임 옥션이 열리면서 많은 유저들이 원하는 닉네임을 찾기 위해 검색 기능을 자주 사용하게 되었습니다. 하지만 공식 홈페이지의 검색 기능이 미흡하고 불편한 점이 많아, 유저들이 더 편리하게 사용할 수 있는 자체 검색 툴을 개발하게 되었습니다. 특히, 초성 검색 기능과 세부적인 필터링 옵션을 추가하여 유저들이 더 쉽게 닉네임을 찾을 수 있도록 했습니다.`,
+      git: "https://github.com/HongYeonSeung/Maple_NewName_2024",
+      link: "https://maple-newname-2024.netlify.app/",
     },
     {
       title: "CrimsonDesert",

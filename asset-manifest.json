@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.975cb22f.css",
+    "main.css": "/React_Portfolio/static/css/main.8aae92a1.css",
     "main.js": "/React_Portfolio/static/js/main.e94680ce.js",
     "static/js/453.1407b060.chunk.js": "/React_Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/magical-spring-forest-scenery-during-morning-breeze-picjumbo-com.jpg": "/React_Portfolio/static/media/magical-spring-forest-scenery-during-morning-breeze-picjumbo-com.2ce995dbefb5d6d6ab1d.jpg",
@@ -9,9 +9,9 @@
     "static/media/YeonSung-Regular.ttf": "/React_Portfolio/static/media/YeonSung-Regular.7ed1d94edc5aa5a9e78a.ttf",
     "static/media/GrandifloraOne-Regular.ttf": "/React_Portfolio/static/media/GrandifloraOne-Regular.f97561ac0d1af0410867.ttf",
     "static/media/Jua-Regular.ttf": "/React_Portfolio/static/media/Jua-Regular.bb8909a47f60980f5988.ttf",
-    "static/media/main1.jpg": "/React_Portfolio/static/media/main1.a1cdccde8f3ec44588a3.jpg",
     "static/media/Maplestory Bold.ttf": "/React_Portfolio/static/media/Maplestory Bold.e39287220e971b277c0e.ttf",
     "static/media/SDSamliphopangcheTTFOutline.ttf": "/React_Portfolio/static/media/SDSamliphopangcheTTFOutline.cb8928233ec33a2a880f.ttf",
+    "static/media/main1.jpg": "/React_Portfolio/static/media/main1.e58211355e0e037fc113.jpg",
     "static/media/stars-7249785_1920.jpg": "/React_Portfolio/static/media/stars-7249785_1920.0728104aafa6f49a2b97.jpg",
     "static/media/SDSamliphopangcheTTFBasic.ttf": "/React_Portfolio/static/media/SDSamliphopangcheTTFBasic.d6a7dad8aec71129d90a.ttf",
     "static/media/SB어그로L.ttf": "/React_Portfolio/static/media/SB어그로L.d52f7dfb589c2ed5daab.ttf",
@@ -29,12 +29,12 @@
     "static/media/fa-v4compatibility.ttf": "/React_Portfolio/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/React_Portfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/React_Portfolio/index.html",
-    "main.975cb22f.css.map": "/React_Portfolio/static/css/main.975cb22f.css.map",
+    "main.8aae92a1.css.map": "/React_Portfolio/static/css/main.8aae92a1.css.map",
     "main.e94680ce.js.map": "/React_Portfolio/static/js/main.e94680ce.js.map",
     "453.1407b060.chunk.js.map": "/React_Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.975cb22f.css",
+    "static/css/main.8aae92a1.css",
     "static/js/main.e94680ce.js"
   ]
 }

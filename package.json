@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HongYeonSeung.github.io/React_Portfolio",
+  "homepage": "https://hongyeonseung-react-portfolio.netlify.app/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
